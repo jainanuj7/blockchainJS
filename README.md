@@ -58,4 +58,4 @@ __6. Browse the Blockchain explorer UI__ at ```http://localhost:3001/block-explo
 
 ![alt text](https://github.com/jainanuj7/blockchainJS/blob/master/screenshots/transactionId.JPG) <br /><br />
 
-![alt text](https://github.com/jainanuj7/blockchainJS/blob/master/screenshots/address.jpg) <br /><br />
+![alt text](https://github.com/jainanuj7/blockchainJS/blob/master/screenshots/address.JPG) <br /><br />
