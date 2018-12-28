@@ -2,16 +2,16 @@
 blockchainJS is written in plain Javascript using ExpressJs and AngularJs. The blockchain in this case is very similar to a bitcoin blockchain in which the ledger contains transaction details like sender, recipient, amount, etc. It also has a user friendly block explorer to search the blockchain. It is a real time blockchain network where multiple nodes participate and mine and a single valid copy of the ledger is synchronised throughout the netowrk.
 
 # Functionalities
-1. APIs
-  1.1 Create and broadcast transaction
-  1.2 Mine a block
-  1.3 Consensus (longest chain valid rule)
-  1.4 View entire blockchain
+1. __APIs__<br />
+  1.1 Create and broadcast transaction<br />
+  1.2 Mine a block<br />
+  1.3 Consensus (longest chain valid rule)<br />
+  1.4 View entire blockchain<br /><br />
   
-2. Block Explorer UI
-  2.1 Search by Block hash
-  2.2 Search by transaction Id
-  2.3 Search by address and view balance
+2. __Block Explorer UI__<br />
+  2.1 Search by Block hash<br />
+  2.2 Search by transaction Id<br />
+  2.3 Search by address and view balance<br />
   
 # Installation Steps
 1. Clone the repo ```git clone https://github.com/jainanuj7/blockchainJS.git```
