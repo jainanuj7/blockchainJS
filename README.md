@@ -1,5 +1,5 @@
 # blockchainJS
-blockchainJS is written in plain Javascript using ExpressJs and AngularJs. The blockchain in this case is very similar to a bitcoin blockchain in which the ledger contains transaction details like sender, recipient, amount, etc. It also has a user friendly block explorer to search the blockchain. It is a real time blockchain network where multiple nodes participate and mine and a single valid copy of the ledger is synchronised throughout the netowrk.
+blockchainJS is written in plain Javascript using ExpressJs and AngularJs. The blockchain in this case is very similar to a bitcoin blockchain in which the ledger contains transaction details like sender, recipient, amount, etc. It also has a user friendly block explorer to search the blockchain. It is a real time blockchain network where multiple nodes participate and mine and a single valid copy of the ledger is synchronised throughout the network.
 
 # Functionalities
 1. __APIs__<br />
